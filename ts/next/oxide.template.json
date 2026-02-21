@@ -1,0 +1,25 @@
+{
+	"name": "next",
+	"version": "1.0.0",
+	"oxideVersion": ">=0.2.0",
+	"author": {
+		"name": "Maksym",
+		"github": "Maksym-Zhuk"
+	},
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/oxide-cli/oxide",
+		"branch": "main"
+	},
+	"layer": "frontend",
+	"framework": "next",
+	"language": "typescript",
+	"official": true,
+	"verified": true,
+
+	"metadata": {
+		"displayName": "Next",
+		"description": "Busic Next",
+		"tags": ["next", "frontend"]
+	}
+}
