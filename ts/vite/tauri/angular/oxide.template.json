@@ -1,38 +1,27 @@
 {
-  "name": "tauri-angular-vite",
-  "version": "0.2.0",
-  "oxideVersion": ">=0.2.0",
-  "author": {
-    "name": "Maksym Zhuk",
-    "github": "oxide-cli"
-  },
-  "repository": {
-    "type": "github",
-    "url": "https://github.com/oxide-cli/templates/tree/main/ts/vite/tauri/angular",
-    "release": "v0.1.0"
-  },
-  "specialization": "fullstack",
-  "scope": "desktop",
-  "technology": [
-    "tauri",
-    "angular"
-  ],
-  "buildTool": "vite",
-  "languages": [
-    "typescript"
-  ],
-  "official": true,
-  "type": "base",
-  "metadata": {
-    "displayName": "Angular",
-    "description": "A modern Angular template for building desktop applications with Vite and Tauri using TypeScript.",
-    "tags": [
-      "angular",
-      "vite",
-      "tauri",
-      "typescript",
-      "desktop",
-      "frontend"
-    ]
-  }
+	"$schema": "https://oxide-server-maksym-zhuk8433-w6h7le9s.leapcell.dev/schema/oxide.template.schema.json",
+	"name": "tauri-angular-vite",
+	"version": "0.2.0",
+	"oxideVersion": ">=0.2.0",
+	"author": {
+		"name": "Maksym Zhuk",
+		"github": "oxide-cli"
+	},
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/oxide-cli/templates/tree/main/ts/vite/tauri/angular",
+		"release": "v0.1.0"
+	},
+	"specialization": "fullstack",
+	"scope": "desktop",
+	"technologies": ["tauri", "angular"],
+	"buildTool": "vite",
+	"languages": ["typescript"],
+	"official": true,
+	"type": "base",
+	"metadata": {
+		"displayName": "Angular",
+		"description": "A modern Angular template for building desktop applications with Vite and Tauri using TypeScript.",
+		"tags": ["angular", "vite", "tauri", "typescript", "desktop", "frontend"]
+	}
 }

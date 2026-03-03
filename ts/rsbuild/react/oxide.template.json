@@ -1,35 +1,34 @@
 {
-  "name": "react-rsbuild-ts",
-  "version": "0.2.0",
-  "oxideVersion": ">=0.2.0",
-  "author": {
-    "name": "Maksym Zhuk",
-    "github": "oxide-cli"
-  },
-  "repository": {
-    "type": "github",
-    "url": "https://github.com/oxide-cli/templates/tree/main/ts/rsbuild/react",
-    "release": "v0.1.0"
-  },
-  "specialization": "fullstack",
-  "scope": "desktop",
-  "technology": "react",
-  "buildTool": "rsbuild",
-  "languages": [
-    "typescript"
-  ],
-  "official": true,
-  "type": "base",
-  "metadata": {
-    "displayName": "React",
-    "description": "A modern React template for building desktop or fullstack applications with TypeScript using RSBuild.",
-    "tags": [
-      "react",
-      "typescript",
-      "desktop",
-      "fullstack",
-      "rsbuild",
-      "frontend"
-    ]
-  }
+	"$schema": "https://oxide-server-maksym-zhuk8433-w6h7le9s.leapcell.dev/schema/oxide.template.schema.json",
+	"name": "react-rsbuild-ts",
+	"version": "0.2.0",
+	"oxideVersion": ">=0.2.0",
+	"author": {
+		"name": "Maksym Zhuk",
+		"github": "oxide-cli"
+	},
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/oxide-cli/templates/tree/main/ts/rsbuild/react",
+		"release": "v0.1.0"
+	},
+	"specialization": "fullstack",
+	"scope": "desktop",
+	"technologies": ["react"],
+	"buildTool": "rsbuild",
+	"languages": ["typescript"],
+	"official": true,
+	"type": "base",
+	"metadata": {
+		"displayName": "React",
+		"description": "A modern React template for building desktop or fullstack applications with TypeScript using RSBuild.",
+		"tags": [
+			"react",
+			"typescript",
+			"desktop",
+			"fullstack",
+			"rsbuild",
+			"frontend"
+		]
+	}
 }

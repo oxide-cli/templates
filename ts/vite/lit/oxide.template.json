@@ -1,34 +1,27 @@
 {
-  "name": "lit-vite-ts",
-  "version": "0.2.0",
-  "oxideVersion": ">=0.2.0",
-  "author": {
-    "name": "Maksym Zhuk",
-    "github": "oxide-cli"
-  },
-  "repository": {
-    "type": "github",
-    "url": "https://github.com/oxide-cli/templates/tree/main/ts/vite/lit",
-    "release": "v0.1.0"
-  },
-  "specialization": "fullstack",
-  "scope": "web",
-  "technology": "lit",
-  "buildTool": "vite",
-  "languages": [
-    "typescript"
-  ],
-  "official": true,
-  "type": "base",
-  "metadata": {
-    "displayName": "Lit",
-    "description": "A modern Lit template for building fast web applications with Vite and TypeScript.",
-    "tags": [
-      "lit",
-      "vite",
-      "typescript",
-      "frontend",
-      "web"
-    ]
-  }
+	"$schema": "https://oxide-server-maksym-zhuk8433-w6h7le9s.leapcell.dev/schema/oxide.template.schema.json",
+	"name": "lit-vite-ts",
+	"version": "0.2.0",
+	"oxideVersion": ">=0.2.0",
+	"author": {
+		"name": "Maksym Zhuk",
+		"github": "oxide-cli"
+	},
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/oxide-cli/templates/tree/main/ts/vite/lit",
+		"release": "v0.1.0"
+	},
+	"specialization": "fullstack",
+	"scope": "web",
+	"technologies": ["lit"],
+	"buildTool": "vite",
+	"languages": ["typescript"],
+	"official": true,
+	"type": "base",
+	"metadata": {
+		"displayName": "Lit",
+		"description": "A modern Lit template for building fast web applications with Vite and TypeScript.",
+		"tags": ["lit", "vite", "typescript", "frontend", "web"]
+	}
 }

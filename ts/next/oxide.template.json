@@ -1,35 +1,26 @@
 {
-  "name": "next",
-  "version": "0.2.0",
-  "oxideVersion": ">=0.2.0",
-  "author": {
-    "name": "Maksym Zhuk",
-    "github": "oxide-cli"
-  },
-  "repository": {
-    "type": "github",
-    "url": "https://github.com/oxide-cli/templates/tree/main/ts/next",
-    "release": "v0.1.0"
-  },
-  "specialization": "fullstack",
-  "scope": "web",
-  "technologia": "next",
-  "languages": [
-    "typescript"
-  ],
-  "official": true,
-  "type": "base",
-  "metadata": {
-    "displayName": "Next",
-    "description": "A modern fullstack Next.js template, ready for scalable web applications.",
-    "tags": [
-      "next",
-      "nextjs",
-      "react",
-      "typescript",
-      "fullstack",
-      "ssr",
-      "web"
-    ]
-  }
+	"$schema": "https://oxide-server-maksym-zhuk8433-w6h7le9s.leapcell.dev/schema/oxide.template.schema.json",
+	"name": "next",
+	"version": "0.2.0",
+	"oxideVersion": ">=0.2.0",
+	"author": {
+		"name": "Maksym Zhuk",
+		"github": "oxide-cli"
+	},
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/oxide-cli/templates/tree/main/ts/next",
+		"release": "v0.1.0"
+	},
+	"specialization": "fullstack",
+	"scope": "web",
+	"technologies": ["next"],
+	"languages": ["typescript"],
+	"official": true,
+	"type": "base",
+	"metadata": {
+		"displayName": "Next",
+		"description": "A modern fullstack Next.js template, ready for scalable web applications.",
+		"tags": ["next", "nextjs", "react", "typescript", "fullstack", "ssr", "web"]
+	}
 }

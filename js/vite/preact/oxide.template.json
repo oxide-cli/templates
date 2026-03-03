@@ -1,34 +1,27 @@
 {
-  "name": "preact-vite-js",
-  "version": "0.2.0",
-  "oxideVersion": ">=0.2.0",
-  "author": {
-    "name": "Maksym Zhuk",
-    "github": "oxide-cli"
-  },
-  "repository": {
-    "type": "github",
-    "url": "https://github.com/oxide-cli/templates/tree/main/js/vite/preact",
-    "release": "v0.1.0"
-  },
-  "specialization": "frontend",
-  "scope": "web",
-  "technology": "preact",
-  "buildTool": "vite",
-  "languages": [
-    "javascript"
-  ],
-  "official": true,
-  "type": "base",
-  "metadata": {
-    "displayName": "Preact",
-    "description": "A modern Preact template for building web applications with Vite using JavaScript.",
-    "tags": [
-      "preact",
-      "vite",
-      "javascript",
-      "frontend",
-      "web"
-    ]
-  }
+	"$schema": "https://oxide-server-maksym-zhuk8433-w6h7le9s.leapcell.dev/schema/oxide.template.schema.json",
+	"name": "preact-vite-js",
+	"version": "0.2.0",
+	"oxideVersion": ">=0.2.0",
+	"author": {
+		"name": "Maksym Zhuk",
+		"github": "oxide-cli"
+	},
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/oxide-cli/templates/tree/main/js/vite/preact",
+		"release": "v0.1.0"
+	},
+	"specialization": "frontend",
+	"scope": "web",
+	"technologies": ["preact"],
+	"buildTool": "vite",
+	"languages": ["javascript"],
+	"official": true,
+	"type": "base",
+	"metadata": {
+		"displayName": "Preact",
+		"description": "A modern Preact template for building web applications with Vite using JavaScript.",
+		"tags": ["preact", "vite", "javascript", "frontend", "web"]
+	}
 }

@@ -1,4 +1,5 @@
 {
+	"$schema": "https://oxide-server-maksym-zhuk8433-w6h7le9s.leapcell.dev/schema/oxide.template.schema.json",
 	"name": "lit-rsbuild-ts",
 	"version": "0.2.0",
 	"oxideVersion": ">=0.2.0",
@@ -13,7 +14,7 @@
 	},
 	"specialization": "frontend",
 	"scope": "web",
-	"technology": "lit",
+	"technologies": ["lit"],
 	"buildTool": "rsbuild",
 	"languages": ["typescript"],
 	"official": true,
