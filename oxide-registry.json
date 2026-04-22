@@ -60,7 +60,7 @@
 		"path": "js/vite/vue"
 	},
 	{
-		"name": "alalog",
+		"name": "analog",
 		"path": "ts/angular/analog"
 	},
 	{
@@ -112,7 +112,7 @@
 		"path": "ts/farm/vue"
 	},
 	{
-		"name": "tauri-preact-far",
+		"name": "tauri-preact-farm",
 		"path": "ts/farm/tauri/preact"
 	},
 	{

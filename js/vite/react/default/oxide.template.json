@@ -1,15 +1,15 @@
 {
 	"$schema": "https://oxide-server-maksym-zhuk8433-w6h7le9s.leapcell.dev/schema/oxide.template.schema.json",
 	"name": "react-vite-js",
-	"version": "0.2.0",
-	"oxideVersion": ">=0.2.0",
+	"version": "0.3.0",
+	"oxideVersion": ">=0.5.0",
 	"author": {
 		"name": "Maksym Zhuk",
 		"github": "oxide-cli"
 	},
 	"repository": {
 		"type": "github",
-		"url": "https://github.com/oxide-cli/templates/tree/main/js/vite/react/base",
+		"url": "https://github.com/oxide-cli/templates/tree/main/js/vite/react/default",
 		"release": "v0.1.0"
 	},
 	"specialization": "frontend",
