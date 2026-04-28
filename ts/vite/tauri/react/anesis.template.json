@@ -5,11 +5,11 @@
 	"anesisVersion": ">=0.9.0",
 	"author": {
 		"name": "Maksym Zhuk",
-		"github": "anesis-cli"
+		"github": "anesis-dev"
 	},
 	"repository": {
 		"type": "github",
-		"url": "https://github.com/anesis-cli/templates/tree/main/ts/vite/tauri/react",
+		"url": "https://github.com/anesis-dev/templates/tree/main/ts/vite/tauri/react",
 		"release": "v0.1.0"
 	},
 	"specialization": "fullstack",

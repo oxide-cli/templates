@@ -5,11 +5,11 @@
 	"anesisVersion": ">=0.9.0",
 	"author": {
 		"name": "Maksym Zhuk",
-		"github": "anesis-cli"
+		"github": "anesis-dev"
 	},
 	"repository": {
 		"type": "github",
-		"url": "https://github.com/anesis-cli/templates/tree/main/rust/axum",
+		"url": "https://github.com/anesis-dev/templates/tree/main/rust/axum",
 		"release": "v0.1.0"
 	},
 	"specialization": "backend",

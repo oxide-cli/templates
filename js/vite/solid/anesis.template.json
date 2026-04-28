@@ -5,11 +5,11 @@
 	"anesisVersion": ">=0.9.0",
 	"author": {
 		"name": "Maksym Zhuk",
-		"github": "anesis-cli"
+		"github": "anesis-dev"
 	},
 	"repository": {
 		"type": "github",
-		"url": "https://github.com/anesis-cli/templates/tree/main/js/vite/solid",
+		"url": "https://github.com/anesis-dev/templates/tree/main/js/vite/solid",
 		"release": "v0.1.0"
 	},
 	"specialization": "frontend",
