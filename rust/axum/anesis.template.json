@@ -1,0 +1,26 @@
+{
+	"$schema": "https://anesis-server.onrender.com/schema/anesis.template.schema.json",
+	"name": "axum",
+	"version": "0.1.1",
+	"anesisVersion": ">=0.9.0",
+	"author": {
+		"name": "Maksym Zhuk",
+		"github": "anesis-cli"
+	},
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/anesis-cli/templates/tree/main/rust/axum",
+		"release": "v0.1.0"
+	},
+	"specialization": "backend",
+	"scope": "web",
+	"technologies": ["axum", "tokio", "tower-http"],
+	"languages": ["rust"],
+	"type": "base",
+	"buildTool": "cargo",
+	"metadata": {
+		"displayName": "Axum",
+		"description": "A minimal base template for starting a backend API with Rust, Axum, Tokio, and basic CORS setup.",
+		"tags": ["rust", "axum", "tokio", "backend", "starter", "api", "cors"]
+	}
+}

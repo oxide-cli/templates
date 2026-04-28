@@ -1,0 +1,26 @@
+{
+	"$schema": "https://anesis-server.onrender.com/schema/anesis.template.schema.json",
+	"name": "react-rsbuild-js",
+	"version": "0.3.1",
+	"anesisVersion": ">=0.9.0",
+	"author": {
+		"name": "Maksym Zhuk",
+		"github": "anesis-cli"
+	},
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/anesis-cli/templates/tree/main/js/rsbuild/react",
+		"release": "v0.1.0"
+	},
+	"specialization": "frontend",
+	"scope": "web",
+	"technologies": ["react"],
+	"buildTool": "rsbuild",
+	"languages": ["javascript"],
+	"type": "base",
+	"metadata": {
+		"displayName": "React",
+		"description": "A modern React template for building web applications with RSBuild using JavaScript.",
+		"tags": ["react", "rsbuild", "javascript", "frontend", "web"]
+	}
+}

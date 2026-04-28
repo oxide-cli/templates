@@ -1,0 +1,25 @@
+{
+	"$schema": "https://anesis-server.onrender.com/schema/anesis.template.schema.json",
+	"name": "nest-express",
+	"version": "0.3.1",
+	"anesisVersion": ">=0.9.0",
+	"author": {
+		"name": "Maksym Zhuk",
+		"github": "anesis-cli"
+	},
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/anesis-cli/templates/tree/main/ts/nest/express",
+		"release": "v0.1.0"
+	},
+	"specialization": "backend",
+	"scope": "web",
+	"technologies": ["nest", "express"],
+	"languages": ["typescript"],
+	"type": "base",
+	"metadata": {
+		"displayName": "Nest + Express",
+		"description": "A modern NestJS template with Express for building scalable backend applications using TypeScript.",
+		"tags": ["nest", "express", "typescript", "backend", "server"]
+	}
+}

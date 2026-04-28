@@ -1,0 +1,34 @@
+{
+	"$schema": "https://anesis-server.onrender.com/schema/anesis.template.schema.json",
+	"name": "tauri-react-farm",
+	"version": "0.3.1",
+	"anesisVersion": ">=0.9.0",
+	"author": {
+		"name": "Maksym Zhuk",
+		"github": "anesis-cli"
+	},
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/anesis-cli/templates/tree/main/ts/farm/tauri/react",
+		"release": "v0.1.0"
+	},
+	"specialization": "fullstack",
+	"scope": "desktop",
+	"technologies": ["tauri", "react"],
+	"buildTool": "farm",
+	"languages": ["typescript"],
+	"type": "base",
+	"metadata": {
+		"displayName": "Tauri + React",
+		"description": "A modern Tauri template with React for building cross-platform desktop applications using Farm build tool.",
+		"tags": [
+			"tauri",
+			"react",
+			"typescript",
+			"desktop",
+			"cross-platform",
+			"frontend",
+			"farm"
+		]
+	}
+}

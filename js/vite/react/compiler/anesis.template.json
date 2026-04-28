@@ -1,0 +1,26 @@
+{
+	"$schema": "https://anesis-server.onrender.com/schema/anesis.template.schema.json",
+	"name": "react-compiler-vite-js",
+	"version": "0.3.1",
+	"anesisVersion": ">=0.9.0",
+	"author": {
+		"name": "Maksym Zhuk",
+		"github": "anesis-cli"
+	},
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/anesis-cli/templates/tree/main/js/vite/react/compiler",
+		"release": "v0.1.0"
+	},
+	"specialization": "frontend",
+	"scope": "web",
+	"technologies": ["react"],
+	"buildTool": "vite",
+	"languages": ["javascript"],
+	"type": "base",
+	"metadata": {
+		"displayName": "React (Compiler)",
+		"description": "React template with custom compiler settings for Vite and JavaScript.",
+		"tags": ["react", "vite", "compiler", "javascript", "frontend", "web"]
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"$schema": "https://anesis-server.onrender.com/schema/anesis.template.schema.json",
+	"name": "nuxt",
+	"version": "0.2.1",
+	"anesisVersion": ">=0.9.0",
+	"author": {
+		"name": "Maksym Zhuk",
+		"github": "anesis-cli"
+	},
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/anesis-cli/templates/tree/main/ts/nuxt",
+		"release": "v0.1.0"
+	},
+	"specialization": "fullstack",
+	"scope": "web",
+	"technologies": ["nuxt"],
+	"languages": ["typescript"],
+	"type": "base",
+	"metadata": {
+		"displayName": "Nuxt",
+		"description": "A modern fullstack Nuxt template, ready for scalable web applications.",
+		"tags": ["nuxt", "nuxt3", "vue", "typescript", "fullstack", "ssr", "web"]
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"$schema": "https://anesis-server.onrender.com/schema/anesis.template.schema.json",
+	"name": "svelte-farm",
+	"version": "0.2.1",
+	"anesisVersion": ">=0.9.0",
+	"author": {
+		"name": "Maksym Zhuk",
+		"github": "anesis-cli"
+	},
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/anesis-cli/templates/tree/main/ts/farm/svelte",
+		"release": "v0.1.0"
+	},
+	"specialization": "frontend",
+	"scope": "web",
+	"technologies": ["svelte"],
+	"buildTool": "farm",
+	"languages": ["typescript"],
+	"type": "base",
+	"metadata": {
+		"displayName": "Svelte",
+		"description": "A modern Svelte template for building fast web applications using Farm build tool.",
+		"tags": ["svelte", "typescript", "frontend", "web", "farm"]
+	}
+}
